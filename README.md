@@ -4,8 +4,8 @@
 
 ### Full Stack Software Engineer &nbsp;·&nbsp; Backend + Frontend &nbsp;·&nbsp; Fintech SaaS
 
-Building reliable backend systems and clean product interfaces for B2B SaaS.<br/>
-Product-minded. Ownership-driven. Shipped to production, supported in production.
+I build backend services and the product UI that sits on top of them.<br/>
+Most of my work so far has been B2B fintech software and custom tools for small businesses.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://meganathan-r.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/meganathanr)
@@ -17,24 +17,33 @@ Product-minded. Ownership-driven. Shipped to production, supported in production
 
 ### About
 
-- Software Engineer with ~2 years building **B2B fintech SaaS** at **Growfin**, an accounts receivable automation platform.
-- Owned the **Credit Memo** feature end to end, from design to production.
-- Built and maintained services on **Java Spring Boot, MySQL and RabbitMQ**, with **Datadog** for observability and **LLM APIs** for AI-assisted workflows.
-- Completed a **6-month L2 production support rotation**: debugging live customer issues, tracing failures across services, shipping fixes under pressure.
-- Equally at home on the frontend: **React, Next.js, TypeScript**, component systems in **Storybook**, rich text editing with **TipTap**.
-- I think in products first: who the user is, what the workflow is, and what "done" means once it is live.
+I spent about two years as a Software Engineer at **Growfin**, an accounts receivable automation platform. Most of that time was on the backend: **Java Spring Boot** services, **MySQL**, **RabbitMQ** queues, **Datadog** for monitoring, and **LLM API** integrations. I owned the **Credit Memo** feature end to end, from design to production.
+
+On the frontend I work with **React, Next.js and TypeScript**, and I've built component libraries in **Storybook** and rich text editors with **TipTap**.
+
+Before writing code, I try to understand who will use the feature and what their day looks like. Finance software gets complicated quickly, and I'd rather the complexity stay in the backend than land on the user.
 
 ---
 
-### What I Build
+### Freelance Work
+
+I also take on client projects for small businesses:
+
+- **Custom CRM for a construction company.** Built to fit how the client actually tracks their work, instead of forcing them into an off-the-shelf tool.
+- **Website for a CNC machine manufacturer.** A product-focused site to present their machines and bring in enquiries.
+- **Property search platform.** Listings with search so buyers can find properties that match what they want.
+
+---
+
+### What I Work On
 
 | Backend | Frontend |
 | :-- | :-- |
 | REST APIs and service design | Product UIs for complex B2B workflows |
-| Async / event-driven processing with queues | Reusable component libraries and design systems |
-| Relational and document data modeling | Server state, caching and data fetching |
-| Observability, monitoring and incident debugging | Rich text editors and form-heavy interfaces |
-| LLM API integrations | Responsive, accessible, fast interfaces |
+| Queue-based async processing | Component libraries and design systems |
+| Relational and document data modeling | Server state and data fetching |
+| Monitoring and production debugging | Rich text editors and form-heavy screens |
+| LLM API integrations | Responsive, accessible layouts |
 
 ---
 
@@ -72,15 +81,6 @@ Product-minded. Ownership-driven. Shipped to production, supported in production
 
 ---
 
-### How I Work
-
-- **Own the outcome, not the ticket.** A feature is done when it works for the customer in production.
-- **Design for failure.** Retries, idempotency, clear logs and alerts before they are needed.
-- **Keep the UI honest.** Complex finance workflows should feel simple to the person using them.
-- **Ship, measure, iterate.** Small releases, real feedback, steady improvement.
-
----
-
 ### GitHub Activity
 
 <div align="center">
@@ -96,7 +96,7 @@ Product-minded. Ownership-driven. Shipped to production, supported in production
 
 <div align="center">
 
-**Open to Full Stack and Backend Software Engineer roles.**<br/>
-Let's talk: [LinkedIn](https://www.linkedin.com/in/meganathanr) &nbsp;·&nbsp; [Portfolio](https://meganathan-r.vercel.app)
+I'm looking for Full Stack and Backend Software Engineer roles.<br/>
+Reach me on [LinkedIn](https://www.linkedin.com/in/meganathanr) or see more on my [portfolio](https://meganathan-r.vercel.app).
 
 </div>
